@@ -20,7 +20,10 @@ Google Android Material Design Colors
 
 ![Color](http://git.oschina.net/uploads/images/2015/0612/150740_316861fc_141009.png "Material Design Color")
 
-![Color](https://github.com/xmagicj/MaterialDesignColor/blob/master/img/material-color-des.jpeg "Material Design Color")
+![Color](https://github.com/xmagicj/MaterialDesignColor/blob/master/img/material-color-des.jpeg "Material Design Color")<br />
+
+借用了zzhoujay童鞋的图片
+所以直接Fork他的项目,然后再做修改
 
 Link
 -----------------------------------
